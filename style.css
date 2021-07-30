@@ -1164,7 +1164,8 @@ li:first-child{
     }
     .subs_img img{
         position: relative;
-        width: 380px;
+        height: 333px;
+        width: 335px;
     }
     .subs_title{
         width: 100%;
