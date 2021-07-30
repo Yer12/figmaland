@@ -1160,6 +1160,10 @@ li:first-child{
     .subs_img{
         order: 2;
     }
+    .subs_img img{
+        position: relative;
+        width: 380px;
+    }
     .subs_title{
         width: 100%;
         margin-bottom: 20px;
@@ -1326,7 +1330,6 @@ li:first-child{
         height: 193px;
     }
 }
-
 
 
 
