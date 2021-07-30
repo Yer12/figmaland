@@ -568,7 +568,7 @@ color: #252B42;
 }
 .cards{
     display: flex;
-    width: 65%;
+    width: 70%;
     align-items: center;
     height: 700px;
     justify-content: space-between;
